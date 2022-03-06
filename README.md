@@ -60,11 +60,12 @@ Now no need to order components for you PCB and get free from stress of solderin
 
 
 
-![image](https://user-images.githubusercontent.com/19898602/134224512-bea8d1c8-9ebe-448d-bbba-0cbecb42d528.png)
+![image](https://user-images.githubusercontent.com/19898602/134224512-bea8d1c8-9ebe-448d-bbba-0cbecb42d528.png)![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
+
+
 
 
 ![image](https://user-images.githubusercontent.com/19898602/156910379-64f60624-b0a7-4f0f-b7f9-5195693d074c.png)
-![image](https://user-images.githubusercontent.com/19898602/130722585-b5268db1-5f17-428f-ba60-b823140f2a70.png)
 
 
 # Comparison Between ESP32, ESP8266 and Arduino R3
